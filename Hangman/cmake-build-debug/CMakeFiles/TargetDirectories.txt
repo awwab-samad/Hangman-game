@@ -1,3 +1,0 @@
-/cygdrive/d/MyFolders/Awwab/ITU/Github/2021-fall-cfp-semester-project-group-i/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/MyFolders/Awwab/ITU/Github/2021-fall-cfp-semester-project-group-i/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/MyFolders/Awwab/ITU/Github/2021-fall-cfp-semester-project-group-i/cmake-build-debug/CMakeFiles/untitled1.dir
